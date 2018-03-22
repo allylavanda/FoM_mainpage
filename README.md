@@ -1,2 +1,2 @@
-# forces_of_mewni_mainpage
-Development for the main website of Forces Of Mewni
+# pvs_mainpage
+PonyvilleSquare MineLittlePony Minecraft server webpage by mys7icfox http://ponyvillesquare.com (server is now closed)
